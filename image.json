@@ -34,13 +34,13 @@
         "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
         "img_description" : "Tuscan road With Poppies is a painting by Marilyn Dunlap which was uploaded on November 15th, 2012."
     },
-
     {
         "img_id" : 106,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D" : "Boulangerie de Montmartre is a painting by Marilyn Dunlap which was uploaded on January 6th, 2012."
+        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
+        "img_description" : "Tuscan road With Poppies is a painting by Marilyn Dunlap which was uploaded on November 15th, 2012."
     },
-
+    
     {
         "img_id" : 107,
         "img_category" : "Interior Design",
