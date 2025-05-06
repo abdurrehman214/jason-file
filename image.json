@@ -1,142 +1,142 @@
-
 [
     {
         "img_id" : 101,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "The Starry Night by Van Gogh is a painting by Vincent Van Gogh which was uploaded on February 13th, 2013."
+        "img_url" : "https://images.unsplash.com/photo-1737233019359-625e96ec8694?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDIzNXxNOGpWYkxiVFJ3c3x8ZW58MHx8fHx8",
+        "img_description" : "Clean lines, neutral tones, and uncluttered spaces create a sense of calm and clarity."
     },
 
     {
         "img_id" : 102,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Two Bluebirds is a painting by Jennifer Lommers which was uploaded on April 8th, 2012."
+        "img_url" : "https://plus.unsplash.com/premium_photo-1745482648087-94febea21bb5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDV8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
+        "img_description" : "Layered textiles, bold patterns, and global accents bring an artistic, carefree vibe."
     },
 
     {
         "img_id" : 103,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Summer Joy is a painting by Jennifer Lommers which was uploaded on June 20th, 2015."
+        "img_url" : "https://plus.unsplash.com/premium_photo-1736194028784-a0afea956b72?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDIwfE04alZiTGJUUndzfHxlbnwwfHx8fHw%3D",
+        "img_description" : "Raw materials like brick, metal, and wood combine for a rugged yet stylish urban edge."
     },
 
     {
         "img_id" : 104,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Searching for Forgotten Paths II is a painting by Jennifer Lommers which was uploaded on July 4th, 2019."
+        "img_url" : "https://images.unsplash.com/photo-1737233347389-24bc3f3fe3a1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDQzfE04alZiTGJUUndzfHxlbnwwfHx8fHw%3D",
+        "img_description" : "Functional design meets cozy comfort through natural light, pale woods, and soft textures."
     },
 
     {
         "img_id" : 105,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Tuscan road With Poppies is a painting by Marilyn Dunlap which was uploaded on November 15th, 2012."
+        "img_url" : "https://images.unsplash.com/photo-1741509541812-5d8f3e96df23?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDY2fE04alZiTGJUUndzfHxlbnwwfHx8fHw%3D",
+        "img_description" : "Retro curves, organic shapes, and iconic furniture give a timeless, vintage flair."
     },
+
     {
         "img_id" : 106,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Tuscan road With Poppies is a painting by Marilyn Dunlap which was uploaded on November 15th, 2012."
+        "img_url" : "https://images.unsplash.com/photo-1733764682545-40c0c659cd29?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDY1fE04alZiTGJUUndzfHxlbnwwfHx8fHw%3D",
+        "img_description" : "Rich colors, classic furnishings, and ornate detailing evoke warmth and sophistication."
     },
-    
+
     {
         "img_id" : 107,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "La Collina Dei Papaveri is a painting by Guido Borelli which was uploaded on January 8th, 2011."
+        "img_url" : "https://images.unsplash.com/photo-1741610739548-29e17473f70b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDgwfE04alZiTGJUUndzfHxlbnwwfHx8fHw%3D",
+        "img_description" : "Soft blues, sandy hues, and breezy fabrics mirror the tranquility of the seaside."
     },
 
     {
         "img_id" : 108,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Watery Birch 1 is a painting by Carol Robinson which was uploaded on January 12th, 2019."
+        "img_url" : "https://images.unsplash.com/photo-1737305457496-dc7503cdde1e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDkwfE04alZiTGJUUndzfHxlbnwwfHx8fHw%3D",
+        "img_description" : "Distressed wood, antique pieces, and cozy accents blend for a homey, grounded feel."
     },
 
     {
         "img_id" : 109,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Land of Sunshine is a painting by Diane McClary which was uploaded on October 18th, 2011."
+        "img_url" : "https://images.unsplash.com/photo-1609869441173-5b2857fd7cc5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDk1fE04alZiTGJUUndzfHxlbnwwfHx8fHw%3D",
+        "img_description" : "A playful mix of styles, colors, and textures reflects personality and creativity."
     },
 
     {
         "img_id" : 110,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Parade of the Seasons is a painting by Anne Gifford which was uploaded on January 19th, 2018."
+        "img_url" : "https://plus.unsplash.com/premium_photo-1733864821721-d09dd3918301?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEwNnxNOGpWYkxiVFJ3c3x8ZW58MHx8fHx8",
+        "img_description" : "The harmony of Japanese minimalism and Scandinavian warmth creates serene, balanced spaces."
     },
 
     {
         "img_id" : 111,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "This Old Barn is a painting by Hailey E Herrera which was uploaded on May 4th, 2015."
+        "img_url" : "https://images.unsplash.com/photo-1738168273959-952fdc961991?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDExMHxNOGpWYkxiVFJ3c3x8ZW58MHx8fHx8",
+        "img_description" : "Geometric patterns, metallic accents, and luxurious materials deliver old-school glamour."
     },
 
     {
         "img_id" : 112,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Desert in Bloom is a painting by Johnathan Harris which was uploaded on October 13th, 2012."
+        "img_url" : "https://images.unsplash.com/photo-1740021838495-591f6a2d97fa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEwOHxNOGpWYkxiVFJ3c3x8ZW58MHx8fHx8",
+        "img_description" : "Sleek finishes, smart storage, and neutral palettes define city-savvy sophistication."
     },
 
     {
         "img_id" : 113,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Reflections is a painting by Johnathan Harris which was uploaded on June 15th, 2012."
+        "img_url" : "https://images.unsplash.com/photo-1618220048045-10a6dbdf83e0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDExNnxNOGpWYkxiVFJ3c3x8ZW58MHx8fHx8",
+        "img_description" : "Bold botanicals, natural fibers, and vibrant colors bring island vibes indoors."
     },
 
     {
         "img_id" : 114,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Kangaroo Grazing is a painting by Graham Gercken which was uploaded on December 8th, 2013."
+        "img_url" : "https://images.unsplash.com/photo-1595446757331-795d866924a9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDExOHxNOGpWYkxiVFJ3c3x8ZW58MHx8fHx8",
+        "img_description" : "High-contrast palettes and luxurious finishes add drama, sparkle, and bold confidence."
     },
 
     {
         "img_id" : 115,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Monarch of the Glen is a painting by Edwin Landseer which was uploaded on March 21st, 2011."
+        "img_url" : "https://images.unsplash.com/photo-1738168362059-44a0b8a80b39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.",
+        "img_description" : "Charming retro pieces and nostalgic accents blend past decades with modern comfort."
     },
 
     {
         "img_id" : 116,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "The Artists Garden at Giverny is a painting by Claude Monet which was uploaded on September 13th, 2010"
+        "img_url" : "https://images.unsplash.com/photo-1738168346641-6aedb68a6c99?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE1NHxNOGpWYkxiVFJ3c3x8ZW58MHx8fHx8",
+        "img_description" : "A peaceful aesthetic rooted in symmetry, natural materials, and soft lighting."
     },
 
     {
         "img_id" : 117,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Mask is a painting by Mark Adlington which was uploaded on December 31st, 2014."
+        "img_url" : "https://images.unsplash.com/photo-1737898415581-7dea57a1905b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE3MXxNOGpWYkxiVFJ3c3x8ZW58MHx8fHx8",
+        "img_description" : "Dark tones, arches, and ornate decor create a dramatic and moody interior."
     },
 
     {
         "img_id" : 118,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Friesians in Winter is a painting by Maggie Rowe which was uploaded on December 30th, 2011."
+        "img_url" : "https://plus.unsplash.com/premium_photo-1675615648106-7d7173bcda9f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE4NHxNOGpWYkxiVFJ3c3x8ZW58MHx8fHx8",
+        "img_description" : "Earthy textures and plant elements meet streamlined forms for grounded sophistication."
     },
 
     {
         "img_id" : 119,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Autumn Sunrise is a painting by Tithi Luadthong which was uploaded on May 11th, 2016."
+        "img_url" : "https://images.unsplash.com/photo-1737467026661-31b5a87098fe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE5OHxNOGpWYkxiVFJ3c3x8ZW58MHx8fHx8",
+        "img_description" : "Elegant moldings, vintage furniture, and chic details offer European flair and charm."
     },
 
     {
         "img_id" : 120,
         "img_category" : "Interior Design",
-        "img_url" : "https://images.unsplash.com/photo-1745827213263-ff9677c7830c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDR8TThqVmJMYlRSd3N8fGVufDB8fHx8fA%3D%3D",
-        "img_description" : "Into The Wind is a painting by Marion Rose which was uploaded on February 9th, 2010."
+        "img_url" : "https://images.unsplash.com/photo-1737103515455-ce1751de5868?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDIxOHxNOGpWYkxiVFJ3c3x8ZW58MHx8fHx8",
+        "img_description" : "Terracotta tones, woven textures, and desert motifs create a cozy, earthy ambiance."
     }
 
 ]
